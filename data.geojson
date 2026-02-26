@@ -3,7 +3,7 @@
   "features": [
     {
       "type": "Feature",
-      "properties": {"name": "Delhi"},
+      "properties": {"name": "New Delhi"},
       "geometry": {
         "type": "Point",
         "coordinates": [77.1025, 28.7041]
@@ -11,7 +11,7 @@
     },
     {
       "type": "Feature",
-      "properties": {"name": "Mumbai"},
+      "properties": {"name": "Bombay"},
       "geometry": {
         "type": "Point",
         "coordinates": [72.8777, 19.0760]
